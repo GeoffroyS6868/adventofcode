@@ -11,4 +11,5 @@ for line in file:
 
 temp.sort(reverse=True)
 
-print(temp[0] + temp[1]+ temp[2])
+print(temp[0])
+print(temp[0] + temp[1] + temp[2])
